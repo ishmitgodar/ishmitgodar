@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Computer Scientist
-- 👀 I’m interested in webdevelopment.
+- 👋 Hi, I’m Computer Scientist.
 - 🌱 I’m currently learning Html,CSS,Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
